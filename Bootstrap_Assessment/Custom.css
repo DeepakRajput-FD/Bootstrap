@@ -1,0 +1,101 @@
+
+
+@media (max-width: 768px) 
+{ 
+#content1
+{
+    flex-wrap: wrap;
+    gap: 10px;
+}
+#card1
+{
+    gap: 10px;
+}
+#card2
+{
+    flex-direction: column;
+    align-items: center;
+    row-gap: 20px;
+}
+ }
+    *
+    {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+        
+    }
+    .container a
+    {
+        color: white;
+    }
+    .wrapper h2
+    {
+        font-size: 60px;
+        font-weight: 400;
+        /* color: white; */
+    }
+    #header1
+    {
+        background:rgb(245 81 30);
+    }
+    .wrapper p
+    {
+        font-size: 25px;
+    }
+    .wrapper
+    {
+        color: white;
+    }
+
+    .input-wrapper input,button
+    {
+        border-radius: 5px;
+        border: 0;
+    }
+
+    #card1 i
+    {
+      font-size: 50px;
+      color: rgb(245 81 30);
+    }
+    #card1
+    {
+      text-transform: uppercase;
+    }
+
+    #btn1,#card-body1
+    {
+      color: white;
+        background:rgb(245 81 30);
+    }
+ 
+    #cardt1
+    {
+      border: 1px solid rgb(245 81 30);
+    }
+
+    #header7
+    {
+      background: rgb(246 246 246);
+    }
+
+    .img-wrap
+    {
+      width: 100%;
+    }
+    .img-wrap img
+    {
+      width: 100%;
+    }
+
+    #chevron
+    {
+      color: red;
+      font-size: 20px;
+      display: flex;
+      text-decoration: none;
+      justify-content: center;
+    }
+  
+  
